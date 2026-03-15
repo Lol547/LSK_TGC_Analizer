@@ -1,0 +1,8 @@
+nltk
+pymorphy2
+emoji
+torch
+transformers
+telethon
+httpx
+requests
