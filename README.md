@@ -37,7 +37,7 @@
 
 ## Установка и настройка
 Подготовка модели:
-* Скачайте веса модели `RuBERT`.(вот ссылка на них https://drive.google.com/drive/folders/1q4yaWOa_gPgVwI5zSiHcRLaeCk9mc7C_?usp=sharing)
+* [Скачайте веса модели `RuBERT`.](https://drive.google.com/drive/folders/1q4yaWOa_gPgVwI5zSiHcRLaeCk9mc7C_?usp=sharing)
 * Поместите их в директорию `models/category_model/`
 
 Конфигурация:
